@@ -1,0 +1,43 @@
+/* .details-hero-section {
+  margin-top: 150px;
+} */
+
+.color {
+  background-color: #f8f6f6;
+}
+
+.card-color {
+  background-color: #f8f6f6;
+}
+
+/* .img-hight {
+  height: 100%;
+} */
+
+.card-body {
+  position: relative;
+}
+
+.card-body .posit {
+  position: absolute;
+  bottom: 100%;
+  right: 35%;
+}
+
+.background {
+  background-color: rgb(224, 221, 221);
+}
+
+footer {
+  background-color: #13253b;
+  overflow-x: hidden;
+}
+
+.pricing-card:hover {
+  cursor: pointer;
+  -moz-transform: scale(0.96);
+  -webkit-transform: scale(0.96);
+  -o-transform: scale(0.96);
+  -ms-transform: scale(0.96);
+  transform: scale(0.96);
+}
